@@ -1,5 +1,5 @@
 from flask import Flask
-from flast import request
+from flask import request
 import requests
 import re
 import socket
